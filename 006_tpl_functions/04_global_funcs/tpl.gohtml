@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+    <ul>
+        <li>{{range .}}
+                {{if and .Name .Check}}
+                    {{.Age}} - {{.Name}}
+                    {{index .Ar 2}} {{index .Ar 1}} {{index .Ar 0}}
+                {{end}}
+            {{end}}</li>
+    </ul>
+</body>
+</html>

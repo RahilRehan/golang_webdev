@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+
+{{ $inp := .}}}
+
+<h1>Heading</h1>
+<p>Names are:</p>
+{{ range . }}
+    <li> {{.}} </li>
+{{ end }}}
+
+{{ range $index, $names := . }}
+    <li> {{$index}} - {{$names}}</li>
+{{ end }}}
+</body>
+</html>

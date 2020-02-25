@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+<h1>Welcome!</h1>
+
+{{.Fall.Term}}<br>
+{{range .Fall.Courses}}
+{{.Number}} {{.Name}} {{.Units}}
+{{end}}
+
+<br><br>
+
+
+{{.Spring.Term}}<br>
+{{range .Spring.Courses}}
+    {{.Number}} {{.Name}} {{.Units}}
+{{end}}
+
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+    <h1>Welcome!</h1>
+    <p>Name : {{.Name}}</p>
+    <p>Age : {{.Age}}</p>
+    {{if .Ltokill}}
+    <p>Kill 'em</p>
+    {{else}}
+    <p>Not allowed to kill</p>
+    {{end}}
+</body>
+</html>
