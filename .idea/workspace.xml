@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bac1020-4a83-49ce-84cb-09b7b6e43489" name="Default Changelist" comment="" />
+    <list default="true" id="9bac1020-4a83-49ce-84cb-09b7b6e43489" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012_nethttp_basics/01_handler/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012_nethttp_basics/03_Request/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012_nethttp_basics/03_Request/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012_nethttp_basics/03_ResponseWriter/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_serve_mux/01_simple_routing/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_serve_mux/02_new_serve_mux/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_serve_mux/03_default_serve_mux/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_serve_mux/04_handle_func/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_serve_mux/05_handle_handle_func/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_third_party_julien_schmidt/01_julien_schimdt/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/01_io_copy/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/01_io_copy/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/02_serve_content/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/02_serve_content/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/03_serve_file/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/03_serve_file/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/04_file_server/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/04_file_server/01/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/04_file_server/02/assets/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/04_file_server/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/04_file_server/03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015_serve_files/04_file_server/03/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/016_passing_data/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/016_passing_data/templates/footer.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/016_passing_data/templates/header.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/016_passing_data/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/016_passing_data/user/empty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/016_passing_data/user/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017_redirects/01_301_move_permenantly/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017_redirects/01_301_move_permenantly/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017_redirects/02_see_other/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017_redirects/02_see_other/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017_redirects/03_preserve_method/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017_redirects/03_preserve_method/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018_cookies/01_create_cookie/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018_cookies/02_website_visit_count/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018_cookies/03_delete_a_cookie/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/sign_up/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/sign_up/templates/show.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/sign_up/templates/signup.gohtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,38 +58,48 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y3Ze17r0DqTGE2w1yxCfmwdxIB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/009_xss/02_esscaped" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../golang-web-dev-master" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dEnOmInAtOr\Documents\TheGoProgLang\golang_webdev\018_cookies\01_create_cookie" />
+      <recent name="C:\Users\dEnOmInAtOr\Documents\TheGoProgLang\golang_webdev\015_serve_files\04_file_server\02\assets" />
+      <recent name="C:\Users\dEnOmInAtOr\Documents\TheGoProgLang\golang_webdev\015_serve_files\04_file_server\01" />
+      <recent name="C:\Users\dEnOmInAtOr\Documents\TheGoProgLang\golang_webdev\015_serve_files\01_io_copy" />
       <recent name="$PROJECT_DIR$/007_nested_templates/01_nested_templates" />
-      <recent name="$PROJECT_DIR$/004_parse_execute" />
-      <recent name="$PROJECT_DIR$/004_parse_execute/04_parseglob/templates" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/009_xss/02_esscaped" />
-      <recent name="$PROJECT_DIR$/009_xss" />
-      <recent name="$PROJECT_DIR$/007_nested_templates/02_data_to_nested_template" />
-      <recent name="$PROJECT_DIR$/006_tpl_functions/03_pipelining" />
-      <recent name="$PROJECT_DIR$/006_tpl_functions/02_datetime" />
+      <recent name="C:\Users\dEnOmInAtOr\Documents\TheGoProgLang\golang_webdev\017_redirects\03_preserve_method" />
+      <recent name="C:\Users\dEnOmInAtOr\Documents\TheGoProgLang\golang_webdev\017_redirects\02_see_other" />
+      <recent name="C:\Users\dEnOmInAtOr\Documents\TheGoProgLang\golang_webdev\015_serve_files\04_file_server\02" />
+      <recent name="C:\Users\dEnOmInAtOr\Documents\TheGoProgLang\golang_webdev\015_serve_files\04_file_server" />
+      <recent name="C:\Users\dEnOmInAtOr\Documents\TheGoProgLang\golang_webdev\015_serve_files\03_serve_file" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build main.go (1)">
@@ -75,50 +129,74 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="59" width="800" height="684" key="#GOPATH" timestamp="1582174375853">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="313" y="36" width="800" height="684" key="#GOPATH" timestamp="1582773255358">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="313" y="36" key="#GOPATH/0.0.1536.834@0.0.1536.834" timestamp="1582773255358" />
     <state x="278" y="59" width="800" height="684" key="#GOPATH/0.27.1366.741@0.27.1366.741" timestamp="1582174375853" />
+    <state x="361" y="77" key="#GOROOT" timestamp="1582623005179">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="77" key="#GOROOT/0.0.1536.834@0.0.1536.834" timestamp="1582623005179" />
     <state x="278" y="59" width="800" height="684" key="#Inspections" timestamp="1582257882479">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="59" width="800" height="684" key="#Inspections/0.27.1366.741@0.27.1366.741" timestamp="1582257882479" />
-    <state x="491" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1582449420105">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="552" y="100" width="432" height="641" key="#com.intellij.ide.util.MemberChooser" timestamp="1583561459825">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="552" y="100" width="432" height="641" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1583561459825" />
     <state x="491" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1582449420105" />
-    <state x="434" y="268" width="488" height="265" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582446685627">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="488" y="271" width="488" height="265" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582622686802">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="488" y="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582622686802" />
     <state x="434" y="268" width="488" height="265" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1582446685627" />
-    <state x="461" y="159" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582174374018">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="518" y="149" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583767834666">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="518" y="149" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1583767834666" />
     <state x="461" y="159" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1582174374018" />
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1582195721926">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1582623022186">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582623022186" />
     <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582195721926" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1582195721925">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1582623022185">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582623022185" />
     <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582195721925" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1582195721925">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1582623022185">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582623022185" />
     <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582195721925" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1582195721926">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1582623022185">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582623022185" />
     <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582195721926" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1582461053853">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1582461053853" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582450115072">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582704630633">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1582704630633" />
+    <state x="0" y="0" width="740" height="834" key="find.popup" timestamp="1582696758970">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" width="740" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1582696758970" />
+    <state x="389" y="70" width="756" height="764" key="search.everywhere.popup" timestamp="1583563047346">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="389" y="70" width="756" height="764" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1583563047346" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1582450115072" />
   </component>
   <component name="XDebuggerManager">
